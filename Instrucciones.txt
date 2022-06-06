@@ -1,0 +1,11 @@
+Buenos Dias!
+
+Gracias de antemano Por Tomarme en Cuenta, Siento no poder entregar un tutorial completo de uso, 
+incluso quedé un poco corto de tiempo por situaciones personales, el diseño de este proyecto está
+basado en el enunciado solicitado, sin más por favor en la base de Datos MySQL, crear una tabla llamada 
+profesor, a la tabla favor importar el documento "profesor.sql" el cual se ubica dentro la carpeta "SQL"
+
+Cualquier duda o comentario, estóy a la orden, cualquier feedback es bien recibido.
+
+Alan F. Cifuentes
+a.fernando_cifuentes@yahoo.com
